@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		LaunchPage launchpag=new LaunchPage();
+		/*LaunchPage launchpag=new LaunchPage();
 		WebDriver driver = launchpag.launchAmazon();
 		
 		LandingPage landPage = new LandingPage();
@@ -21,7 +21,8 @@ public class Main {
 		pc.proceed(driver);
 		
 		LoginDetails lg=new LoginDetails();
-		lg.loginfo(driver);
+		lg.loginfo(driver);*/
+		system.out.println("hello amazon project");
 		
 	}
 		
